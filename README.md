@@ -57,13 +57,13 @@ CSV Data → DataReplayer → EventBus → Strategy → Signal → OMS → RiskE
 | TCA | `TCAAnalyzer` | Computes total commission, Sharpe ratio, max drawdown |
 
 ### Backtest Results
-1. Total Net Profit:     41.87 USDT
-2. Annualized Sharpe:    -251.08
-3. Information Ratio:    0.01
-4. Max Drawdown:         -20.75%
-5. Strategy Win Rate:    28.57%
-6. Total Executions:     7
-7. Terminal Market Price: 74569.05 USDT
+Total Net Profit:     46.78 USDT
+Annualized Sharpe:    14.41
+Information Ratio:    -1.21
+Maximum Drawdown:     -0.1904 %
+Profit Factor:        2.16
+Total Executions:     12
+Ending Wealth:        5046.78 USDT
 ---
 
 
